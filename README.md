@@ -3,7 +3,7 @@
 
 Link: https://kind-kare-e73e29.netlify.app/
 
-##Getting Started
+### Getting Started
 
 Follow these steps to setup the project.
 
