@@ -1,6 +1,3 @@
-# About the Project
-
-
 
 ## Available Scripts
 
