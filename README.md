@@ -1,7 +1,7 @@
 
-## Available Scripts
+## Project Demo
 
-In the project directory, you can run:
+Link: https://kind-kare-e73e29.netlify.app/
 
 ### `npm start`
 
