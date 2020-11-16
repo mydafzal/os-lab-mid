@@ -3,6 +3,10 @@
 
 Link: https://kind-kare-e73e29.netlify.app/
 
+##Getting Started
+
+Follow these steps to setup the project.
+
 ### `npm start`
 
 Runs the app in the development mode.\
